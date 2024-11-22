@@ -1,7 +1,7 @@
 #create vector and matrix
 v1<-c(1,2,3)
 v2<-c(4,5,6)
-m1<-matrix(c(1,2,3,4),nrow=3,ncol=2)
+m1<-matrix(c(1,2,3,4),nrow=2,ncol=2)
 m2<-matrix(7:10,nrow=2,byrow=TRUE)
 
 #basic operations
